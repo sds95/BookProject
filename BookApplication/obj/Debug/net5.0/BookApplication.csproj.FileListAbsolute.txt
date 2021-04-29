@@ -1,0 +1,16 @@
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\BookApplication.exe
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\BookApplication.deps.json
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\BookApplication.runtimeconfig.json
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\BookApplication.runtimeconfig.dev.json
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\BookApplication.dll
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\ref\BookApplication.dll
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\bin\Debug\net5.0\BookApplication.pdb
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.csprojAssemblyReference.cache
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.AssemblyInfoInputs.cache
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.AssemblyInfo.cs
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.csproj.CoreCompileInputs.cache
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.dll
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\ref\BookApplication.dll
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.pdb
+C:\Users\Eliseev\source\repos\BookApplication\BookApplication\obj\Debug\net5.0\BookApplication.genruntimeconfig.cache
