@@ -8,14 +8,8 @@ namespace BookApplication
 
         public string AddTitle
         {
-            get
-            {
-                return title;
-            }
-            set
-            {
-                title = value;
-            }
+            get { return title; }
+            set { title = value; }
         }
 
         public void Show()

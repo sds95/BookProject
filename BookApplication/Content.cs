@@ -8,14 +8,8 @@ namespace BookApplication
 
         public string AddContent
         {
-            get
-            {
-                return content;
-            }
-            set
-            {
-                content = value;
-            }
+            get { return content; }
+            set { content = value; }
         }
 
         public void Show()

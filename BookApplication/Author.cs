@@ -8,14 +8,8 @@ namespace BookApplication
 
         public string AddAuthor
         {
-            get
-            {
-                return author;
-            }
-            set
-            {
-                author = value;
-            }
+            get { return author; }
+            set { author = value; }
         }
 
         public void Show()

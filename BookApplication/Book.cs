@@ -6,14 +6,9 @@ namespace BookApplication
     {
         public Book(string _title, string _author, string _content)
         {
-            Title title = new Title();
-            title.AddTitle = _title;
-
-            Author author = new Author();
-            author.AddAuthor = _author;
-
-            Content content = new Content();
-            content.AddContent = _content;
+            Title title = new Title { AddTitle = _title };
+            Author author = new Author { AddAuthor = _author };
+            Content content = new Content { AddContent = _content };
 
             ShowBook(title, author, content);
         }
