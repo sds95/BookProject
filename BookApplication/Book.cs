@@ -4,19 +4,22 @@ namespace BookApplication
 {
     class Book
     {
-        public Book(string _title, string _author, string _content)
-        {
-            Title title = new Title { AddTitle = _title };
-            Author author = new Author { AddAuthor = _author };
-            Content content = new Content { AddContent = _content };
+        private Title _title;
+        private Author _author;
+        private Content _content;
 
-            ShowBook(title, author, content);
-        }
-        public static void ShowBook(Title title, Author author, Content content)
+        public Book(string title, string author, string content)
         {
-            title.Show();
-            author.Show();
-            content.Show();
+            _title = new Title { AddTitle = title };
+            _author = new Author { AddAuthor = author };
+            _content = new Content { AddContent = content };
+        }
+
+        public void ShowBook()
+        {
+            this._title.Show();
+            this._author.Show();
+            this._content.Show();
         }
     }
 }
