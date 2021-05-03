@@ -4,36 +4,24 @@ namespace BookApplication
 {
     class Book
     {
-        private string title;
-        private string author;
-        private string content;
-        
-        public void Create()
+        public Book(string _title, string _author, string _content)
         {
             Title title = new Title();
-            title.AddTitle = this.title;
-            
+            title.AddTitle = _title;
+
             Author author = new Author();
-            author.AddAuthor = this.author;
+            author.AddAuthor = _author;
 
             Content content = new Content();
-            content.AddContent = this.content;
+            content.AddContent = _content;
 
             ShowBook(title, author, content);
         }
-
         public void ShowBook(Title title, Author author, Content content)
         {
             title.Show();
             author.Show();
             content.Show();
-        }
-
-        public Book(string title, string author, string content)
-        {
-            this.title = title;
-            this.author = author;
-            this.content = content;          
         }
     }
 }
