@@ -12,7 +12,7 @@ namespace BookApplication
 
             ShowBook(title, author, content);
         }
-        public void ShowBook(Title title, Author author, Content content)
+        public static void ShowBook(Title title, Author author, Content content)
         {
             title.Show();
             author.Show();
