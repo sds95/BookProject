@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rPJEYH0SC9aAli8Kl/I14pbdmFFD3nTTQTJxAbJeAFdCs8jPWJ1fJGB2yud+VytPooXGREHpXqM/RMf6EWe1mw==",
+  "dgSpecHash": "TLg6LEVxNTTdgYyVA+KP09cOCxRPA56qxwizeFfO7MyY61LTDJFEAWx4ZGChgUnm6wdzLmtIblN77p70/e9lJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eliseev\\source\\repos\\BookApplication\\BookApplication\\BookApplication.csproj",
+  "projectFilePath": "D:\\repository\\BookProject\\BookApplication\\BookApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

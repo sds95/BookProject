@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace BookApplication
 {
     class Title
@@ -21,7 +20,7 @@ namespace BookApplication
 
         public void Show()
         {
-            Console.WriteLine(title);
+            Console.WriteLine("Название - " + title);
         }
     }
 }

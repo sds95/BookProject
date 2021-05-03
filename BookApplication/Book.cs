@@ -8,24 +8,26 @@ namespace BookApplication
         private string author;
         private string content;
         
-        public void AddBook()
+        public void Create()
         {
             Title title = new Title();
             title.AddTitle = this.title;
-            Console.WriteLine("Название - ");
-            title.Show();
-
+            
             Author author = new Author();
             author.AddAuthor = this.author;
-            Console.WriteLine("Автор - ");
-            author.Show();
 
             Content content = new Content();
             content.AddContent = this.content;
-            Console.WriteLine("Содержание - ");
-            content.Show();
+
+            ShowBook(title, author, content);
         }
 
+        public void ShowBook(Title title, Author author, Content content)
+        {
+            title.Show();
+            author.Show();
+            content.Show();
+        }
 
         public Book(string title, string author, string content)
         {

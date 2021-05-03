@@ -20,7 +20,7 @@ namespace BookApplication
 
         public void Show()
         {
-            Console.WriteLine(content);
+            Console.WriteLine("Содержание - " + content);
         }
     }
 }

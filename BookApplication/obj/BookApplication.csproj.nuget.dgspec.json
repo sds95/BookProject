@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eliseev\\source\\repos\\BookApplication\\BookApplication\\BookApplication.csproj": {}
+    "D:\\repository\\BookProject\\BookApplication\\BookApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eliseev\\source\\repos\\BookApplication\\BookApplication\\BookApplication.csproj": {
+    "D:\\repository\\BookProject\\BookApplication\\BookApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eliseev\\source\\repos\\BookApplication\\BookApplication\\BookApplication.csproj",
+        "projectUniqueName": "D:\\repository\\BookProject\\BookApplication\\BookApplication.csproj",
         "projectName": "BookApplication",
-        "projectPath": "C:\\Users\\Eliseev\\source\\repos\\BookApplication\\BookApplication\\BookApplication.csproj",
-        "packagesPath": "C:\\Users\\Eliseev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eliseev\\source\\repos\\BookApplication\\BookApplication\\obj\\",
+        "projectPath": "D:\\repository\\BookProject\\BookApplication\\BookApplication.csproj",
+        "packagesPath": "C:\\Users\\SDS\\.nuget\\packages\\",
+        "outputPath": "D:\\repository\\BookProject\\BookApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Eliseev\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SDS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

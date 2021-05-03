@@ -14,7 +14,9 @@ namespace BookApplication
             string content = Console.ReadLine();
 
             Book book = new Book(title, author, content);
-            book.AddBook();
+            book.Create();
+
+            Console.ReadKey();
         }
     }
 }
